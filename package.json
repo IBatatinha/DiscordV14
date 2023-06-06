@@ -1,0 +1,16 @@
+{
+  "name": "Discordv14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodemon ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
